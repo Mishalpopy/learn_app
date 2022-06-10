@@ -1,0 +1,1 @@
+web: gunicorn ibruproject.wsgi --log-file -
