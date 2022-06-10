@@ -1,1 +1,1 @@
-web: gunicorn ibruproject.wsgi --log-file -
+web: gunicorn learn_app.wsgi --log-file -
